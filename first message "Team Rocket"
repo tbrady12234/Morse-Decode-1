@@ -1,0 +1,62 @@
+//Under "create" of a gameplay object
+//var timing can control the speed at which the message is read
+//dot= 1 unit of time
+//dash= 3 units of time
+//space btn letters= 3 units of time
+//space btn words= 7 units of time
+cooldown = 10;
+
+timing = 30;
+
+dot = timing;
+
+dash = 3*(timing);
+
+space = timing;
+
+spaceLetter = 3*(timing);
+
+spaceWord = 7*(timing);
+
+messageTeamRocket[0] = dash;
+messageTeamRocket[1] = spaceLetter;
+messageTeamRocket[2] = dot;
+messageTeamRocket[3] = spaceLetter;
+messageTeamRocket[4] = dot;
+messageTeamRocket[5] = space;
+messageTeamRocket[6] = dash;
+messageTeamRocket[7] = spaceLetter;
+messageTeamRocket[8] = dash;
+messageTeamRocket[9] = space;
+messageTeamRocket[10] = dash;
+messageTeamRocket[11] = spaceWord;
+messageTeamRocket[12] = dot;
+messageTeamRocket[13] = space;
+messageTeamRocket[14] = dash;
+messageTeamRocket[15] = space;
+messageTeamRocket[16] = dot;
+messageTeamRocket[17] = spaceLetter;
+messageTeamRocket[18] = dash;
+messageTeamRocket[19] = space;
+messageTeamRocket[20] = dash;
+messageTeamRocket[21] = space;
+messageTeamRocket[22] = dash;
+messageTeamRocket[23] = spaceLetter;
+messageTeamRocket[24] = dash;
+messageTeamRocket[25] = space;
+messageTeamRocket[26] = dot;
+messageTeamRocket[27] = space;
+messageTeamRocket[28] = dash;
+messageTeamRocket[29] = space;
+messageTeamRocket[30] = dot;
+messageTeamRocket[31] = spaceLetter;
+messageTeamRocket[32] = dash;
+messageTeamRocket[33] = space;
+messageTeamRocket[34] = dot;
+messageTeamRocket[35] = space;
+messageTeamRocket[36] = dash;
+messageTeamRocket[37] = spaceLetter;
+messageTeamRocket[38] = dot;
+messageTeamRocket[39] = spaceLetter;
+messageTeamRocket[40] = dash;
+messageTeamRocket[41] = spaceWord;
