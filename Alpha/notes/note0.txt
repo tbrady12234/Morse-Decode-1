@@ -1,0 +1,1 @@
+Set the cooldown in the create event of obj_gameplay to the length of the first letter
