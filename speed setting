@@ -1,0 +1,41 @@
+//SLOWER SETTING
+
+//store original array in temp array 
+while ((i < array_length_1d())) {
+	tempArray[i] = array[i];
+
+	i += 1;
+}
+//reassign array values
+while ((i < array_length_1d())) {
+	if(!(i mod 2 == 0))
+	{
+		array[i] += 400;
+	}
+
+	i += 1;
+}
+
+//SLOW SETTING
+
+//store original array in temp array 
+while ((i < array_length_1d())) {
+	tempArray[i] = array[i];
+
+	i += 1;
+}
+//reassign array values
+while ((i < array_length_1d())) {
+	if(!(i mod 2 == 0))
+	{
+		array[i] += 200;
+	}
+
+	i += 1;
+}
+//NORMAL SETTING
+while ((i < array_length_1d())) {
+	array[i] = tempArray[i];
+
+	i += 1;
+}
