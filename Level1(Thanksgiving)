@@ -1,0 +1,237 @@
+//Level One
+
+//Pie
+//P
+messagePie[0] = dot;
+messagePie[1] = space;
+messagePie[2] = dash;
+messagePie[3] = space;
+messagePie[4] = dash;
+messagePie[5] = space;
+messagePie[6] = dot;
+messagePie[7] = spaceLetter;
+//I
+messagePie[8] = dot;
+messagePie[9] = space;
+messagePie[10] = dot;
+messagePie[11] = spaceLetter;
+//E
+messagePie[12] = dot;
+messagePie[13] = spaceWord;
+
+//Turkey
+//T
+messageTurkey[0] = dash;
+messageTurkey[1] = spaceLetter;
+//U
+messageTurkey[2] = dot;
+messageTurkey[3] = space;
+messageTurkey[4] = dot;
+messageTurkey[5] = space;
+messageTurkey[6] = dash;
+messageTurkey[7] = spaceLetter;
+//R
+messageTurkey[8] = dot;
+messageTurkey[9] = space;
+messageTurkey[10] = dash;
+messageTurkey[11] = space;
+messageTurkey[12] = dot;
+messageTurkey[13] = spaceLetter;
+//K
+messageTurkey[14] = dash;
+messageTurkey[15] = space;
+messageTurkey[16] = dot;
+messageTurkey[17] = space;
+messageTurkey[18] = dash;
+messageTurkey[19] = spaceLetter;
+//E
+messageTurkey[20] = dot;
+messageTurkey[21] = spaceLetter;
+//Y
+messageTurkey[22] = dash;
+messageTurkey[23] = space;
+messageTurkey[24] = dot;
+messageTurkey[25] = space;
+messageTurkey[26] = dash;
+messageTurkey[27] = space;
+messageTurkey[28] = dash;
+messageTurkey[29] = spaceWord;
+
+//Pilgrim
+//P
+messagePilgrim[0] = dot;
+messagePilgrim[1] = space;
+messagePilgrim[2] = dash;
+messagePilgrim[3] = space;
+messagePilgrim[4] = dash;
+messagePilgrim[5] = space;
+messagePilgrim[6] = dot;
+messagePilgrim[7] = spaceLetter;
+//I
+messagePilgrim[8] = dot;
+messagePilgrim[9] = space;
+messagePilgrim[10] = dot;
+messagePilgrim[11] = spaceLetter;
+//L
+messagePilgrim[12] = dot;
+messagePilgrim[13] = space;
+messagePilgrim[14] = dash;
+messagePilgrim[15] = space;
+messagePilgrim[16] = dot;
+messagePilgrim[17] = space;
+messagePilgrim[18] = dot;
+messagePilgrim[19] = spaceLetter;
+//G
+messagePilgrim[20] = dash;
+messagePilgrim[21] = space;
+messagePilgrim[22] = dash;
+messagePilgrim[23] = space;
+messagePilgrim[24] = dot;
+messagePilgrim[25] = spaceLetter;
+//R
+messagePilgrim[26] = dot;
+messagePilgrim[27] = space;
+messagePilgrim[28] = dash;
+messagePilgrim[29] = space;
+messagePilgrim[30] = dot;
+messagePilgrim[31] = spaceLetter;
+//I
+messagePilgrim[32] = dot;
+messagePilgrim[33] = space;
+messagePilgrim[34] = dot;
+messagePilgrim[35] = spaceLetter;
+//M
+messagePilgrim[36] = dash;
+messagePilgrim[37] = space;
+messagePilgrim[38] = dash;
+messagePilgrim[39] = spaceWord;
+
+//Stuffing
+//S
+messageStuffing[0] = dot;
+messageStuffing[1] = space;
+messageStuffing[2] = dot;
+messageStuffing[3] = space;
+messageStuffing[4] = dot;
+messageStuffing[5] = spaceLetter;
+//T
+messageStuffing[6] = dash;
+messageStuffing[7] = spaceLetter;
+//U
+messageStuffing[8] = dot;
+messageStuffing[9] = space;
+messageStuffing[10] = dot;
+messageStuffing[11] = space;
+messageStuffing[12] = dash;
+messageStuffing[13] = spaceLetter;
+//F
+messageStuffing[14] = dot;
+messageStuffing[15] = space;
+messageStuffing[16] = dot;
+messageStuffing[17] = space;
+messageStuffing[18] = dash;
+messageStuffing[19] = space;
+messageStuffing[20] = dot;
+messageStuffing[21] = spaceLetter;
+//F
+messageStuffing[22] = dot;
+messageStuffing[23] = space;
+messageStuffing[24] = dot;
+messageStuffing[25] = space;
+messageStuffing[26] = dash;
+messageStuffing[27] = space;
+messageStuffing[28] = dot;
+messageStuffing[29] = spaceLetter;
+//I
+messageStuffing[30] = dot;
+messageStuffing[31] = space;
+messageStuffing[32] = dot;
+messageStuffing[33] = spaceLetter;
+//N
+messageStuffing[34] = dash;
+messageStuffing[35] = space;
+messageStuffing[36] = dot;
+messageStuffing[37] = spaceLetter;
+//G
+messageStuffing[38] = dash;
+messageStuffing[39] = space;
+messageStuffing[40] = dash;
+messageStuffing[41] = space;
+messageStuffing[42] = dot;
+messageStuffing[43] = spaceWord;
+
+//Thanksgiving
+//T
+messageThanksgiving[0] = dash;
+messageThanksgiving[1] = spaceLetter;
+//H
+messageThanksgiving[2] = dot;
+messageThanksgiving[3] = space;
+messageThanksgiving[4] = dot;
+messageThanksgiving[5] = space;
+messageThanksgiving[6] = dot;
+messageThanksgiving[7] = space;
+messageThanksgiving[8] = dot;
+messageThanksgiving[9] = spaceLetter;
+//A
+messageThanksgiving[10] = dot;
+messageThanksgiving[11] = space;
+messageThanksgiving[12] = dash;
+messageThanksgiving[13] = spaceLetter;
+//N
+messageThanksgiving[14] = dash;
+messageThanksgiving[15] = space;
+messageThanksgiving[16] = dot;
+messageThanksgiving[17] = spaceLetter;
+//K
+messageThanksgiving[18] = dash;
+messageThanksgiving[19] = space;
+messageThanksgiving[20] = dot;
+messageThanksgiving[21] = space;
+messageThanksgiving[22] = dash;
+messageThanksgiving[23] = spaceLetter;
+//S
+messageThanksgiving[24] = dot;
+messageThanksgiving[25] = space;
+messageThanksgiving[26] = dot;
+messageThanksgiving[27] = space;
+messageThanksgiving[28] = dot;
+messageThanksgiving[29] = spaceLetter;
+//G
+messageThanksgiving[30] = dash;
+messageThanksgiving[31] = space;
+messageThanksgiving[32] = dash;
+messageThanksgiving[33] = space;
+messageThanksgiving[34] = dot;
+messageThanksgiving[35] = spaceLetter;
+//I
+messageThanksgiving[36] = dot;
+messageThanksgiving[37] = space;
+messageThanksgiving[38] = dot;
+messageThanksgiving[39] = spaceLetter;
+//V
+messageThanksgiving[40] = dot;
+messageThanksgiving[41] = space;
+messageThanksgiving[42] = dot;
+messageThanksgiving[43] = space;
+messageThanksgiving[44] = dot;
+messageThanksgiving[45] = space;
+messageThanksgiving[46] = dash;
+messageThanksgiving[47] = spaceLetter;
+//I
+messageThanksgiving[48] = dot;
+messageThanksgiving[49] = space;
+messageThanksgiving[50] = dot;
+messageThanksgiving[51] = spaceLetter;
+//N
+messageThanksgiving[52] = dash;
+messageThanksgiving[53] = space;
+messageThanksgiving[54] = dot;
+messageThanksgiving[55] = spaceLetter;
+//G
+messageThanksgiving[56] = dash;
+messageThanksgiving[57] = space;
+messageThanksgiving[58] = dash;
+messageThanksgiving[59] = space;
+messageThanksgiving[60] = dot;
+messageThanksgiving[61] = spaceLetter;
