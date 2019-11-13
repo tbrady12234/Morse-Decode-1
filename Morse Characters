@@ -1,0 +1,217 @@
+//Morse characters
+
+//A
+message[] = dot;
+message[] = space;
+message[] = dash;
+message[] = spaceLetter;
+
+//B
+message[] = dash;
+message[] = space;
+message[] = dot;
+message[] = space;
+message[] = dot;
+message[] = space;
+message[] = dot;
+message[] = spaceLetter
+
+//C
+message[] = dash;
+message[] = space;
+message[] = dot;
+message[] = space;
+message[] = dash;
+message[] = space;
+message[] = dot;
+message[] = spaceLetter;
+
+//D
+message[] = dash;
+message[] = space;
+message[] = dot;
+message[] = space;
+message[] = dot;
+message[] = spaceLetter;
+
+//E
+message[] = dot;
+message[] = spaceLetter;
+
+//F
+message[] = dot;
+message[] = space;
+message[] = dot;
+message[] = space;
+message[] = dash;
+message[] = space;
+message[] = dot;
+message[] = spaceLetter;
+
+//G
+message[] = dash;
+message[] = space;
+message[] = dash;
+message[] = space;
+message[] = dot;
+message[] = spaceLetter;
+
+//H
+message[] = dot;
+message[] = space;
+message[] = dot;
+message[] = space;
+message[] = dot;
+message[] = space;
+message[] = dot;
+message[] = spaceLetter;
+
+//I
+message[] = dot;
+message[] = space;
+message[] = dot;
+message[] = spaceLetter;
+
+//J
+message[] = dot;
+message[] = space;
+message[] = dash;
+message[] = space;
+message[] = dash;
+message[] = space;
+message[] = dash;
+message[] = spaceLetter;
+
+//K
+message[] = dash;
+message[] = space;
+message[] = dot;
+message[] = space;
+message[] = dash;
+message[] = spaceLetter;
+
+//L
+message[] = dot;
+message[] = space;
+message[] = dash;
+message[] = space;
+message[] = dot;
+message[] = space;
+message[] = dot;
+message[] = spaceLetter;
+
+//M
+message[] = dash;
+message[] = space;
+message[] = dash;
+message[] = spaceLetter;
+
+//N
+message[] = dash;
+message[] = space;
+message[] = dot;
+message[] = spaceLetter;
+
+//O
+message[] = dash;
+message[] = space;
+message[] = dash;
+message[] = space;
+message[] = dash;
+message[] = spaceLetter;
+
+//P
+message[] = dot;
+message[] = space;
+message[] = dash;
+message[] = space;
+message[] = dash;
+message[] = space;
+message[] = dot;
+message[] = spaceLetter;
+
+//Q
+message[] = dash;
+message[] = space;
+message[] = dash;
+message[] = space;
+message[] = dot;
+message[] = space;
+message[] = dash;
+message[] = spaceLetter;
+
+//R
+message[] = dot;
+message[] = space;
+message[] = dash;
+message[] = space;
+message[] = dot;
+message[] = spaceLetter;
+
+//S
+message[] = dot;
+message[] = space;
+message[] = dot;
+message[] = space;
+message[] = dot;
+message[] = spaceLetter;
+
+//T
+message[] = dash;
+message[] = spaceLetter;
+
+//U
+message[] = dot;
+message[] = space;
+message[] = dot;
+message[] = space;
+message[] = dash;
+message[] = spaceLetter;
+
+//V
+message[] = dot;
+message[] = space;
+message[] = dot;
+message[] = space;
+message[] = dot;
+message[] = space;
+message[] = dash;
+message[] = spaceLetter;
+
+//W
+message[] = dot;
+message[] = space;
+message[] = dash;
+message[] = space;
+message[] = dash;
+message[] = spaceLetter;
+
+//X
+message[] = dash;
+message[] = space;
+message[] = dot;
+message[] = space;
+message[] = dot;
+message[] = space;
+message[] = dash;
+message[] = spaceLetter;
+
+//Y
+message[] = dash;
+message[] = space;
+message[] = dot;
+message[] = space;
+message[] = dash;
+message[] = space;
+message[] = dash;
+message[] = spaceLetter;
+
+//Z
+message[] = dash;
+message[] = space;
+message[] = dash;
+message[] = space;
+message[] = dot;
+message[] = space;
+message[] = dot;
+message[] = spaceLetter;
