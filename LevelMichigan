@@ -1,0 +1,209 @@
+//Level 2
+//H
+messageHail[0] = space;
+messageHail[1] = spaceLetter;
+messageHail[2] = dot;
+messageHail[3] = space;
+messageHail[4] = dot;
+messageHail[5] = space;
+messageHail[6] = dot;
+messageHail[7] = space;
+messageHail[8] = dot;
+messageHail[9] = spaceLetter;
+//A
+messageHail[10] = dot;
+messageHail[11] = space;
+messageHail[12] = _dash;
+messageHail[13] = spaceLetter;
+//I
+messageHail[14] = dot;
+messageHail[15] = space;
+messageHail[16] = dot;
+messageHail[17] = spaceLetter;
+//L
+messageHail[18] = dot;
+messageHail[19] = space;
+messageHail[20] = _dash;
+messageHail[21] = space;
+messageHail[22] = dot;
+messageHail[23] = space;
+messageHail[24] = dot;
+messageHail[25] = spaceWord;
+
+//B
+messageBlue[0] = space;
+messageBlue[1] = spaceLetter;
+messageBlue[2] = _dash;
+messageBlue[3] = space;
+messageBlue[4] = dot;
+messageBlue[5] = space;
+messageBlue[6] = dot;
+messageBlue[7] = space;
+messageBlue[8] = dot;
+messageBlue[9] = spaceLetter;
+//L
+messageBlue[10] = dot;
+messageBlue[11] = space;
+messageBlue[12] = _dash;
+messageBlue[13] = space;
+messageBlue[14] = dot;
+messageBlue[15] = space;
+messageBlue[16] = dot;
+messageBlue[17] = spaceLetter;
+//U
+messageBlue[18] = dot;
+messageBlue[19] = space;
+messageBlue[20] = dot;
+messageBlue[21] = space;
+messageBlue[22] = _dash;
+messageBlue[23] = spaceLetter;
+//E
+messageBlue[24] = dot;
+messageBlue[25] = spaceWord;
+
+//L
+messageLeaders[0] = space;
+messageLeaders[1] = spaceLetter;
+messageLeaders[2] = dot;
+messageLeaders[3] = space;
+messageLeaders[4] = _dash;
+messageLeaders[5] = space;
+messageLeaders[6] = dot;
+messageLeaders[7] = space;
+messageLeaders[8] = dot;
+messageLeaders[9] = spaceLetter;
+//E
+messageLeaders[10] = dot;
+messageLeaders[11] = spaceLetter;
+//A
+messageLeaders[12] = dot;
+messageLeaders[13] = space;
+messageLeaders[14] = _dash;
+messageLeaders[15] = spaceLetter;
+//D
+messageLeaders[16] = _dash;
+messageLeaders[17] = space;
+messageLeaders[18] = dot;
+messageLeaders[19] = space;
+messageLeaders[20] = dot;
+messageLeaders[21] = spaceLetter;
+//E
+messageLeaders[22] = dot;
+messageLeaders[23] = spaceLetter;
+//R
+messageLeaders[24] = dot;
+messageLeaders[25] = space;
+messageLeaders[26] = _dash;
+messageLeaders[27] = space;
+messageLeaders[28] = dot;
+messageLeaders[29] = spaceLetter;
+//S
+messageLeaders[30] = dot;
+messageLeaders[31] = space;
+messageLeaders[32] = dot;
+messageLeaders[33] = space;
+messageLeaders[34] = dot;
+messageLeaders[35] = spaceWord;
+
+//V
+messageVictors[0] = space;
+messageVictors[1] = spaceLetter;
+messageVictors[2] = dot;
+messageVictors[3] = space;
+messageVictors[4] = dot;
+messageVictors[5] = space;
+messageVictors[6] = dot;
+messageVictors[7] = space;
+messageVictors[8] = _dash;
+messageVictors[9] = spaceLetter;
+//I
+messageVictors[10] = dot;
+messageVictors[11] = space;
+messageVictors[12] = dot;
+messageVictors[13] = spaceLetter;
+//C
+messageVictors[14] = _dash;
+messageVictors[15] = space;
+messageVictors[16] = dot;
+messageVictors[17] = space;
+messageVictors[18] = _dash;
+messageVictors[19] = space;
+messageVictors[20] = dot;
+messageVictors[21] = spaceLetter;
+//T
+messageVictors[22] = _dash;
+messageVictors[23] = spaceLetter;
+//O
+messageVictors[24] = _dash;
+messageVictors[25] = space;
+messageVictors[26] = _dash;
+messageVictors[27] = space;
+messageVictors[28] = _dash;
+messageVictors[29] = spaceLetter;
+//R
+messageVictors[30] = dot;
+messageVictors[31] = space;
+messageVictors[32] = _dash;
+messageVictors[33] = space;
+messageVictors[34] = dot;
+messageVictors[35] = spaceLetter;
+//S
+messageVictors[36] = dot;
+messageVictors[37] = space;
+messageVictors[38] = dot;
+messageVictors[39] = space;
+messageVictors[40] = dot;
+messageVictors[41] = spaceWord;
+
+//M
+messageMichigan[0] = space;
+messageMichigan[1] = spaceLetter;
+messageMichigan[2] = _dash;
+messageMichigan[3] = space;
+messageMichigan[4] = _dash;
+messageMichigan[5] = spaceLetter;
+//I
+messageMichigan[6] = dot;
+messageMichigan[7] = space;
+messageMichigan[8] = dot;
+messageMichigan[9] = spaceLetter;
+//C
+messageMichigan[10] = _dash;
+messageMichigan[11] = space;
+messageMichigan[12] = dot;
+messageMichigan[13] = space;
+messageMichigan[14] = _dash;
+messageMichigan[15] = space;
+messageMichigan[16] = dot;
+messageMichigan[17] = spaceLetter;
+//H
+messageMichigan[18] = dot;
+messageMichigan[19] = space;
+messageMichigan[20] = dot;
+messageMichigan[21] = space;
+messageMichigan[22] = dot;
+messageMichigan[23] = space;
+messageMichigan[24] = dot;
+messageMichigan[25] = spaceLetter;
+//I
+messageMichigan[26] = dot;
+messageMichigan[27] = space;
+messageMichigan[28] = dot;
+messageMichigan[29] = spaceLetter;
+//G
+messageMichigan[30] = _dash;
+messageMichigan[31] = space;
+messageMichigan[32] = _dash;
+messageMichigan[33] = space;
+messageMichigan[34] = dot;
+messageMichigan[35] = spaceLetter;
+//A
+messageMichigan[36] = dot;
+messageMichigan[37] = space;
+messageMichigan[38] = _dash;
+messageMichigan[39] = spaceLetter;
+//N
+messageMichigan[40] = _dash;
+messageMichigan[41] = space;
+messageMichigan[42] = dot;
+messageMichigan[43] = spaceWord;
